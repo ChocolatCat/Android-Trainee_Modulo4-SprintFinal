@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sprint Final Shi</string>
+    <string name="hello">Hola!</string>
+    <string name="greeting">Mi nombre es Cristian Silva Silva,</string>
+    <string name="prof">Analista Programador Computacional</string>
+    <string name="aboutme">Sobre mi</string>
+    <string name="exp">Años de Experiencia: 3</string>
+    <string name="funfact">Me gustan los gatos</string>
+    <string name="fabcompartir">Contacto</string>
+    <string name="compartir">Contactarse</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="contact">Ingrese mensaje...</string>
+    <string name="send">Enviar Mensaje</string>
+    <string name="mymail">crisilvsilv@gmail.com</string>
+    <string name="subject">Solicitud de Contacto</string>
+    <string name="sendwith">Enviar correo usando...</string>
+    <string name="nomailclients">No hay clientes de correo instalados en su telefono</string>
+</resources>
